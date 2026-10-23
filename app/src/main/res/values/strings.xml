@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FakeStandby</string>
+    <string name="tile_name">息屏挂机</string>
+    <string name="tile_desc">OLED息屏挂机并自动收起控制中心</string>
+    <string name="notification_title">息屏挂机中</string>
+    <string name="notification_channel_name">FakeStandby 运行状态</string>
+    <string name="notification_channel_desc">显示息屏挂机运行中的常驻状态栏通知</string>
+    <string name="notification_ready_title">FakeStandby 就绪待命</string>
+    <string name="notification_ready_content">点击控制中心磁贴或主界面按钮即可开启息屏挂机</string>
+    <string name="notification_action_stop">退出挂机</string>
+    <string name="notification_channel_adb_pairing">无线调试配对服务</string>
+    <string name="notification_adb_pairing_searching_title">正在搜索无线调试配对端口…</string>
+    <string name="notification_adb_pairing_searching_text">请在系统开发者选项中点击「使用配对码配对设备」</string>
+    <string name="notification_adb_pairing_found_title">发现无线调试配对服务</string>
+    <string name="notification_adb_pairing_found_text">已找到配对端口: %1$d，请在此直接回复6位配对码</string>
+    <string name="notification_adb_pairing_action_input">输入配对码</string>
+    <string name="notification_adb_pairing_action_stop">停止搜索</string>
+    <string name="notification_adb_pairing_working_title">正在执行无线调试配对…</string>
+    <string name="notification_adb_pairing_succeed_title">无线调试配对成功！</string>
+    <string name="notification_adb_pairing_succeed_text">已获取无线 ADB 权限，点击磁贴可自动收起控制中心</string>
+    <string name="notification_adb_pairing_failed_title">无线调试配对失败</string>
+    <string name="notification_adb_pairing_failed_text">配对码错误或连接超时，请重试</string>
+</resources>

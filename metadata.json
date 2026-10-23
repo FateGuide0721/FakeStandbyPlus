@@ -1,0 +1,6 @@
+{
+  "name": "FakeStandby",
+  "description": "OLED screen standby for AFK gaming with wireless ADB notification pairing and quick settings tile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
